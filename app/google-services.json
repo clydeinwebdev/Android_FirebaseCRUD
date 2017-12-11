@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "915125917612",
+    "firebase_url": "https://hfmp-e883a.firebaseio.com",
+    "project_id": "hfmp-e883a",
+    "storage_bucket": "hfmp-e883a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915125917612:android:6ba84b6a0c28b621",
+        "android_client_info": {
+          "package_name": "com.hfmp.smsserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915125917612-d49deaau2v5nktg4rr188cobovjba888.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfmp.smsserver",
+            "certificate_hash": "db6627c1d9fecd35979dfb2c64ddc716c582610f"
+          }
+        },
+        {
+          "client_id": "915125917612-bgnoonv7n9vck9v9pcb3mt96cr753ms7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0XLNRfysuqGN5d_dCpYi6cAts9H3K6PQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915125917612-bgnoonv7n9vck9v9pcb3mt96cr753ms7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
